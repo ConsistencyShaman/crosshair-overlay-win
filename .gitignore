@@ -1,0 +1,48 @@
+# User-specific files
+.vs/
+.vscode/
+.idea/
+
+# User-specific settings
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]evelopment/
+[Dd]ist/
+[Dd]ist-*/
+x64build/
+x86build/
+build/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# PDB files (debugging files)
+*.pdb
+
+# Object files, libraries, and executables
+*.obj
+*.o
+*.exe
+*.dll
+*.lib
+
+# IntelliSense and other temporary files
+ipch/
+.vsconfig/
+
+# Visual Studio for Mac config
+.vscode/
+
+# Node.js (if using any JavaScript or Node modules)
+node_modules/
+npm-debug.log
+yarn-error.log
